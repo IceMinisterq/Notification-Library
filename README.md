@@ -1,6 +1,6 @@
 # Notification-Library
 
-Fiest, You will need to load the library
+First, You will need to load the library
 
 ```lua
 local NotificationLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMinisterq/Notification-Library/Main/Library.lua"))()
