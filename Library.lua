@@ -7,7 +7,7 @@ local library
 local templateFolder
 local canvas
 function NotificationLibrary:Load()
-    library = game:GetObjects("rbxassetid://12149165324")[1]
+    library = game:GetObjects("rbxassetid://15133757123")[1]
     templateFolder = library.Templates
     canvas = library.list
     library.Name = LibraryName
